@@ -1,0 +1,5 @@
+name: PearLib
+version: ${project.version}
+main: com.reygames.pearlib.PearLib
+authors: [SquarePear]
+description: A library for most of my spigot plugins
